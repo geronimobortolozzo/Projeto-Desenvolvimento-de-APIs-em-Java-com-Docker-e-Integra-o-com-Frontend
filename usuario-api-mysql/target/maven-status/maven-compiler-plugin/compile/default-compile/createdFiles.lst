@@ -1,0 +1,6 @@
+com\example\usuario_api_mysql\CorsConfig.class
+com\example\usuario_api_mysql\UsuarioApiMysqlApplication.class
+com\example\usuario_api_mysql\CorsConfig$1.class
+com\example\usuario_api_mysql\Usuario.class
+com\example\usuario_api_mysql\UsuarioController.class
+com\example\usuario_api_mysql\UsuarioRepository.class

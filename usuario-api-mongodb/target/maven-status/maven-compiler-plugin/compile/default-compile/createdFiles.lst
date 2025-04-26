@@ -1,0 +1,6 @@
+com\example\usuario_api_mongodb\UsuarioController.class
+com\example\usuario_api_mongodb\UsuarioRepository.class
+com\example\usuario_api_mongodb\UsuarioApiMongodbApplication.class
+com\example\usuario_api_mongodb\Usuario.class
+com\example\usuario_api_mongodb\CorsConfig$1.class
+com\example\usuario_api_mongodb\CorsConfig.class
